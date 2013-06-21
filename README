@@ -1,0 +1,40 @@
+$Id: README,v 1.1.1.1 2010/04/15 09:55:56 peimic.comprock Exp $
+
+Copyright (C) 2002-2004 Michael Cannon, michael@peimic.com
+See full GNU Lesser General Public License in LICENSE.
+
+This library is free software; you can redistribute it and/or
+modify it under the terms of the GNU Lesser General Public
+License as published by the Free Software Foundation; either
+version 2.1 of the License, or (at your option) any later version.
+
+This library is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public
+License along with this library; if not, write to the Free Software
+Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
+
+
+GENERAL:
+Cb_cogs is a basic library of additional desired code functions or classes
+founds to speed up prototyping and development efforts by Peimic.
+
+Upon updates and installs, cb_cogs is designed to overwrite itself everytime.
+That way previous release errors are minimized. If you customize cb_cogs though,
+then you'll lose your edits so be sure to backup those changes. Even better
+submit them to cb_cogs@peimic.com for potential inclusion into the library.
+
+
+WARNING:
+Please don't delete the cb_cogs directory or else Peimic modules will fail
+to work.
+
+
+REGARDS:
+Thank you for using a Peimic module. Please send questions, comments, and
+concerns to michael@peimic.com.
+
+Michael 
